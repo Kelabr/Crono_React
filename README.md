@@ -1,4 +1,4 @@
-#Crono React
+# Crono React
 
 Este repositório aloca um desafio que eu propus para mim mesmo. Construir um cronometro com base em um código que vi na própria documentação do react.
 Consultei algumas vezes o código que está na documentação mas mesmo assim pude entender um conceito chave para fazer o cronómetro.
